@@ -1,3 +1,22 @@
+2nd code
+==========
 git remote add origin https://github.com/mkbangla/Review_git-github.git
 git branch -M main
 git push -u origin main
+
+1st code
+==========
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mkbangla/Review_git-github.git
+git push -u origin main
+
+2nd code
+========
+git remote add origin https://github.com/mkbangla/Review_git-github.git
+git branch -M main
+git push -u origin main
+
+
